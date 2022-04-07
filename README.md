@@ -1,9 +1,6 @@
-# covid_bc
-
 <!DOCTYPE html>
 <html>
 <head>
-<title>COVID Bc.</title>
 </head>
 <body>
 
