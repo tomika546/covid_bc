@@ -15,8 +15,9 @@
 <p><a href="https://tomika546.github.io/covid_bc/CovidSkVaccinated_Dose2">CovidSkVaccinated_Dose2</a></p>
 <p><a href="https://tomika546.github.io/covid_bc/CovidSkVaccinated_Dose3">CovidSkVaccinated_Dose3</a></p>
 <p><a href="https://tomika546.github.io/covid_bc/CovidSkVaccinated_Graph">CovidSkVaccinated_Graph</a></p>
-<p><a href="https://tomika546.github.io/covid_bc/CovidDataCountries_recovered&deaths">CovidDataCountries_recovered&deaths</a></p>
 <p><a href="https://tomika546.github.io/covid_bc/CovidDataCountries_tested&confirmed">CovidDataCountries_tested&confirmed</a></p>
+<p><a href="https://tomika546.github.io/covid_bc/CovidDataCountries_recovered_group">CovidDataCountries_recovered_group</a></p>
+<p><a href="https://tomika546.github.io/covid_bc/CovidDataCountries_deaths_group">CovidDataCountries_deaths_group</a></p>
 
 </body>
 </html>
